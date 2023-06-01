@@ -2,10 +2,6 @@
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/Dzikrifaza/Dzikrifaza)
 </div>
 
-<div>
-  <b>Hello Everyone!!!.. Dzikri Faza Hauna Kusnadi</b>
-</div>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
