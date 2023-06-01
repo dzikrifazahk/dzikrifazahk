@@ -1,6 +1,9 @@
+<h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/nannn_ep/"></a></h1>
 <div align="center">
+
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/Dzikrifaza/Dzikrifaza)
 </div>
+<div align="center">
 
 Here are some ideas to get you started:
 
