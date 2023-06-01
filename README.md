@@ -2,10 +2,6 @@
 
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/Dzikrifaza/Dzikrifaza)
 </div>
-### Hi there 👋
-
-<!--
-**Dzikrifaza/Dzikrifaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+<!--
+**Dzikrifaza/Dzikrifaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
